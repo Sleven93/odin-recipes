@@ -1,0 +1,13 @@
+h1 {text-align: center;
+    font-size: xx-large;
+    font-family: Helvetica, Georgia;
+    color: yellowgreen;
+    font-weight: bold;
+}
+li {font-size: medium;
+    font-family: Helvetica, Georgia;
+    color: rgb(19, 82, 61);
+}
+a {color: brown;}
+
+h2 {font-style: italic;}
